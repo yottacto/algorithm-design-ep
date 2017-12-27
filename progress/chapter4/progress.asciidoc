@@ -2,9 +2,14 @@
 
 == Exercises
 
+.checklist
+* [x] todo1
+* [ ] todo2
+* [x] todo3
+
 ****
-01. [.line-through]#*problem*#
-02. [.line-through]#*problem*#
+01. [line-through]#*problem*#
+02. -p-r-o-b-l-e-m-
 03. problem
 04. problem
 05. problem
