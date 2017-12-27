@@ -4,7 +4,7 @@
 
 ****
 01. [.line-through]#*problem*#
-02. problem
+02. [.line-through]#*problem*#
 03. problem
 04. problem
 05. problem
