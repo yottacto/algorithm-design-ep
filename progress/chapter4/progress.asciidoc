@@ -3,7 +3,7 @@
 == Exercises
 
 ****
-01. [underline]#*problem*#
+01. [.line-through]#*problem*#
 02. problem
 03. problem
 04. problem
