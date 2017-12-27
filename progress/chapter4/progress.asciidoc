@@ -5,7 +5,7 @@
 == Exercises
 
 * [x] problem 01
-* [x] problem 02 icon:bolt[]
+* [x] problem 02 &dagger;
 * [ ] problem 03
 * [ ] problem 04
 * [ ] problem 05
