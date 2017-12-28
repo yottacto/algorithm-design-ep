@@ -17,7 +17,10 @@ TIP: use an exchange argument (or not directly use it, which is more straightfor
 * [x] problem 08 &dagger;
 * [x] problem 09
 * [x] problem 10 &dagger;
-* [ ] problem 11
+* [x] problem 11 &dagger;
++
+NOTE: the problem is easy, but the solution is artful
++
 * [ ] problem 12
 * [ ] problem 13
 * [ ] problem 14
