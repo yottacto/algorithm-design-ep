@@ -21,7 +21,7 @@ TIP: use an exchange argument (or not directly use it, which is more straightfor
 +
 NOTE: the problem is easy, but the solution is artful
 +
-* [ ] problem 12
+* [x] problem 12 &dagger; &dagger; (best solution O(n) for test and give an ordering)
 * [ ] problem 13
 * [ ] problem 14
 * [ ] problem 15
