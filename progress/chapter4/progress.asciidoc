@@ -6,10 +6,10 @@
 
 * [x] problem 01
 * [x] problem 02 &dagger;
-* [ ] problem 03
-* [ ] problem 04
-* [ ] problem 05
-* [ ] problem 06
+* [x] problem 03
+* [x] problem 04
+* [x] problem 05
+* [x] problem 06 &dagger; &dagger;
 * [ ] problem 07
 * [ ] problem 08
 * [ ] problem 09
@@ -37,4 +37,19 @@
 * [ ] problem 31
 * [ ] problem 32
 * [ ] problem 33
+
+
+a1, b1
+a2, b2
+
+max(a1 + b1,      a1 + a2 + b2) <=
+max(a1 + a2 + b1, a2 + b2)
+
+max(sum1,      sum2 + a1) <=
+max(sum1 + a2, sum2)
+
+sum2 + a1 - max(sum1 + a2, sum2) <= 0
+max(sum2 + a1 - sum1 - a2, sum2 + a1 - sum2) <= 0
+sum2 + a1 <= sum1 + a2
+b2 <= b1
 
