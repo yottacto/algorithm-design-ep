@@ -14,9 +14,9 @@
 TIP: use an exchange argument (or not directly use it, which is more straightforwad)
 +
 * [x] problem 07
-* [ ] problem 08
-* [ ] problem 09
-* [ ] problem 10
+* [x] problem 08 &dagger;
+* [x] problem 09
+* [x] problem 10 &dagger;
 * [ ] problem 11
 * [ ] problem 12
 * [ ] problem 13
