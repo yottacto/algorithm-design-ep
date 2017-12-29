@@ -50,8 +50,11 @@ NOTE: the `Cycle Property` requier stirct '>' when there are edges' weight  equa
 +
 TIP: use the fact proofed in the previous problem
 +
-* [ ] problem 29
-* [ ] problem 30
+* [x] problem 29
+* [x] problem 30 &dagger;
++
+TIP: proof the extra point size is at most k
++
 * [ ] problem 31
 * [ ] problem 32
 * [ ] problem 33
