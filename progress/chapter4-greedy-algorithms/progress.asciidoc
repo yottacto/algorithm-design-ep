@@ -31,8 +31,8 @@ NOTE: best solution O(n) for test and give an ordering
 * [x] problem 16
 * [x] problem 17
 * [x] problem 18
-* [ ] problem 19
-* [ ] problem 20
+* [x] problem 19
+* [x] problem 20 &dagger;
 * [ ] problem 21
 * [ ] problem 22
 * [ ] problem 23
