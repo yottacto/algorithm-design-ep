@@ -44,9 +44,12 @@ NOTE: the `Cycle Property` requier stirct '>' when there are edges' weight  equa
 * [x] problem 23 (bazinga)
 * [x] problem 24
 * [ ] problem 25
-* [x] problem 26  &dagger; &dagger;
-* [ ] problem 27
-* [ ] problem 28
+* [x] problem 26 &dagger; &dagger;
+* [x] problem 27
+* [x] problem 28 &dagger;
++
+TIP: use the fact proofed in the previous problem
++
 * [ ] problem 29
 * [ ] problem 30
 * [ ] problem 31
