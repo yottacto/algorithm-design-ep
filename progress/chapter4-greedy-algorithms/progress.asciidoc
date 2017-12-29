@@ -37,7 +37,10 @@ NOTE: best solution O(n) for test and give an ordering
 +
 WARNING: the BFS's solution's implementability
 +
-* [ ] problem 22
+* [x] problem 22 &dagger;
++
+NOTE: the `Cycle Property` requier stirct '>' when there are edges' weight  equal
++
 * [ ] problem 23
 * [ ] problem 24
 * [ ] problem 25
