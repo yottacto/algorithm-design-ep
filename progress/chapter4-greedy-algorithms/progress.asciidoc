@@ -58,9 +58,9 @@ TIP: use the fact proofed in the previous problem
 * [x] problem 29
 * [x] problem 30 &dagger;
 +
-TIP: proof the extra point size is at most k
+TIP: proof the extra points size is at most k
 +
-* [x] problem 31  &dagger; &dagger; &dagger;
+* [x] problem 31 &dagger; &dagger; &dagger;
 * [ ] problem 32
-* [ ] problem 33
+* [x] problem 33 &dagger; &dagger; &dagger;
 
