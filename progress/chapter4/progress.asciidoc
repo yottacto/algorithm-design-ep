@@ -28,9 +28,9 @@ NOTE: best solution O(n) for test and give an ordering
 * [x] problem 13
 * [x] problem 14
 * [x] problem 15 &dagger;
-* [ ] problem 16
-* [ ] problem 17
-* [ ] problem 18
+* [x] problem 16
+* [x] problem 17
+* [x] problem 18
 * [ ] problem 19
 * [ ] problem 20
 * [ ] problem 21
