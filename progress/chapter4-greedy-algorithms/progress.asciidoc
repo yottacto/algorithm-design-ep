@@ -33,7 +33,10 @@ NOTE: best solution O(n) for test and give an ordering
 * [x] problem 18
 * [x] problem 19
 * [x] problem 20 &dagger;
-* [ ] problem 21
+* [x] problem 21
++
+WARNING: the BFS's solution's implementability
++
 * [ ] problem 22
 * [ ] problem 23
 * [ ] problem 24
