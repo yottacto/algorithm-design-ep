@@ -2,6 +2,11 @@
 
 == Progress
 
+// tot 68 #
+----
+[############################################################--------] 90%
+----
+
 == Exercises
 
 * [x] problem 01
@@ -55,7 +60,7 @@ TIP: use the fact proofed in the previous problem
 +
 TIP: proof the extra point size is at most k
 +
-* [ ] problem 31
+* [x] problem 31  &dagger; &dagger; &dagger;
 * [ ] problem 32
 * [ ] problem 33
 
