@@ -41,10 +41,10 @@ WARNING: the BFS's solution's implementability
 +
 NOTE: the `Cycle Property` requier stirct '>' when there are edges' weight  equal
 +
-* [ ] problem 23
-* [ ] problem 24
+* [x] problem 23 (bazinga)
+* [x] problem 24
 * [ ] problem 25
-* [ ] problem 26
+* [x] problem 26  &dagger; &dagger;
 * [ ] problem 27
 * [ ] problem 28
 * [ ] problem 29
