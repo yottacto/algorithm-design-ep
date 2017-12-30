@@ -37,5 +37,5 @@
 * [ ] problem 26
 * [ ] problem 27
 * [ ] problem 28
-* [ ] problem 29
+* [ ] problem 29 &dagger; &dagger; &dagger;
 
