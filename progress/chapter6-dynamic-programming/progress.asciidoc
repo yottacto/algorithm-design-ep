@@ -19,16 +19,16 @@
 * [x] problem 08
 * [x] problem 09
 * [x] problem 10
-* [ ] problem 11
-* [ ] problem 12
-* [ ] problem 13
-* [ ] problem 14
-* [ ] problem 15
-* [ ] problem 16
-* [ ] problem 17
-* [ ] problem 18
-* [ ] problem 19
-* [ ] problem 20
+* [x] problem 11
+* [x] problem 12
+* [x] problem 13
+* [x] problem 14
+* [x] problem 15
+* [x] problem 16
+* [x] problem 17
+* [x] problem 18 &dagger;
+* [x] problem 19
+* [x] problem 20
 * [ ] problem 21
 * [ ] problem 22
 * [ ] problem 23
