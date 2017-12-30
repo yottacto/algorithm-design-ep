@@ -4,7 +4,7 @@
 
 // tot 68 #
 ----
-[#####################################################---------------] 79%
+[##########################################################----------] 86%
 ----
 
 == Exercises
@@ -29,11 +29,11 @@
 * [x] problem 18 &dagger;
 * [x] problem 19
 * [x] problem 20
-* [x] problem 21
+* [x] problem 21 &dagger;
 * [x] problem 22
 * [x] problem 23 &dagger; &dagger;
-* [ ] problem 24
-* [ ] problem 25
+* [x] problem 24 &dagger;
+* [x] problem 25 &dagger; &dagger;
 * [ ] problem 26
 * [ ] problem 27
 * [ ] problem 28
