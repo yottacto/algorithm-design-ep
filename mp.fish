@@ -1,4 +1,4 @@
-#!/bin/fish
+#!/usr/bin/fish
 
 echo $argv[1]
 set bar_len (echo (grep -o -m 1 '^\[[-#]\+\]' $argv[1] | wc -c) - 3 | bc)
