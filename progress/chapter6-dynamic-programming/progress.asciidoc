@@ -30,9 +30,9 @@
 * [x] problem 19
 * [x] problem 20
 * [x] problem 21
-* [ ] problem 22
-* [ ] problem 23
-* [ ] problem 24
+* [x] problem 22
+* [x] problem 23
+* [x] problem 24 &dagger; &dagger;
 * [ ] problem 25
 * [ ] problem 26
 * [ ] problem 27
