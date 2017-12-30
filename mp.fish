@@ -1,7 +1,7 @@
 #!/usr/bin/fish
 
 echo $argv[1]
-set bar_len (echo (grep -o '^\[[-#]\+\]' $argv[1] | wc -c) - 3 | bc)
+set bar_len (echo (grep -o -m 1 '^\[[-#]\+\]' $argv[1] | wc -c) - 3 | bc)
 set tot_problem (grep '\* \[[ x]\] problem' $argv[1] | wc -l)
 set solved_problem (grep '\* \[[x]\] problem' $argv[1] | wc -l)
 set solved_rate (echo "$solved_problem * 100 / $tot_problem" | bc | sed 's/$/%/')
