@@ -14,9 +14,9 @@ echo "solved rate          = $solved_rate"
 echo "bar length           = $bar_len"
 echo "bar length of solved = $bar_solved"
 
-set bar '['(head -c $bar_solved < /dev/zero | tr '\0' '#')
-set tbar (head -c $bar_unslved < /dev/zero | tr '\0' '-')
-set bar (echo "$bar$tbar")'] '$solved_rate
+set left (head -c $bar_solved < /dev/zero | tr '\0' '#')
+set right (head -c $bar_unslved < /dev/zero | tr '\0' '-')
+set bar (echo ["$left$right"] $solved_rate)
 echo $bar
 
 sed -i "s/^\[.*\] [0-9]\+%/$bar/" $argv[1]
