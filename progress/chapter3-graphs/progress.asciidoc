@@ -1,0 +1,24 @@
+:icons: font
+
+== Progress
+
+// tot 68 #
+----
+[--------------------------------------------------------------------] 0%
+----
+
+== Exercises
+
+* [ ] problem 01
+* [ ] problem 02
+* [ ] problem 03
+* [ ] problem 04
+* [ ] problem 05
+* [ ] problem 06
+* [ ] problem 07
+* [ ] problem 08
+* [ ] problem 09
+* [ ] problem 10
+* [ ] problem 11
+* [ ] problem 12
+
